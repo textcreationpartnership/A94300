@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pray be not angry: or, The womens new law: With their several votes, orders, rules, and precepts, to the London-prentices, both in Cheap-side, Lumbard-street, Fish-street, Gracious-street, Broad-street, Fleet-street, Newgate-market, the Strand, Convent-garden; and all other places whatsoever, in and about the City of London, or parts adjacent. Likewise, their rare presidents and instructions, both to young-men and old, for the choosing of a good wife, or vertuous mistress; and how they shall know and distinguish an honest woman from an enticing and dissembling whore. Printed according to order; being pleasant for young-men, profitable for old-men, and hurtful to none.</title>
+            <author>Thorowgood, G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94300</idno>
+            <idno type="STC">Wing T1064</idno>
+            <idno type="STC">Thomason E885_7</idno>
+            <idno type="STC">ESTC R207326</idno>
+            <idno type="EEBO-CITATION">99866383</idno>
+            <idno type="PROQUEST">99866383</idno>
+            <idno type="VID">168398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168398)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E885[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pray be not angry: or, The womens new law: With their several votes, orders, rules, and precepts, to the London-prentices, both in Cheap-side, Lumbard-street, Fish-street, Gracious-street, Broad-street, Fleet-street, Newgate-market, the Strand, Convent-garden; and all other places whatsoever, in and about the City of London, or parts adjacent. Likewise, their rare presidents and instructions, both to young-men and old, for the choosing of a good wife, or vertuous mistress; and how they shall know and distinguish an honest woman from an enticing and dissembling whore. Printed according to order; being pleasant for young-men, profitable for old-men, and hurtful to none.</title>
+                  <author>Thorowgood, G.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By G. Thorowgood; leaf [A]2 signed: G. Thorowgood.</note>
+                  <note>Annotation on Thomason copy: "August 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Misogyny --  Early works to 1800.</term>
+               <term>Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168398:1" rendition="simple:additions"/>
+            <p>
+               <hi>Pray be not Angry:</hi> OR, THE WOMENS <hi>NEW</hi> LAW: <hi>WITH</hi> Their ſeveral Votes, Orders, Rules, and Precepts, to the <hi>London-Prentices,</hi> both in Cheap-ſide, Lumbard-ſtreet, Fiſh-ſtreet, Gracious-ſtreet, Broad-ſtreet, Fleet-ſtreet, Newgate-market, the Strand, Covent-garden; and all other places whatſoe<g ref="char:EOLhyphen"/>ver, in and about the City of <hi>LONDON,</hi> or Parts adjacent. <hi>LIKEWISE,</hi> Their Rare <hi>Preſidents</hi> and <hi>Inſtructions,</hi> both to young-men and old, for the chooſing of a good Wife, or vertuous Miſtreſs; and how they ſhall know and diſtinguiſh an honeſt Woman from an enticing, and diſſembling Whore.</p>
+            <p>Printed according to Order; <hi>Being pleaſant for Young-men, pro<g ref="char:EOLhyphen"/>fitable for Old-men, and hurtful to none.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168398:2"/>
+            <pb facs="tcp:168398:2"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Uſing with my ſelf, in a time of ſadneſs, and having lit<g ref="char:EOLhyphen"/>tle pleaſure to paſs the time withall, being lately ex<g ref="char:EOLhyphen"/>aſperated and interwoven in the Thrids of Choller a<g ref="char:EOLhyphen"/>gainſt ſome Wasps of the Female Sex, (or certaine <hi>Lavia, Flora,</hi> and <hi>Lais</hi> Curtizans, three notorious Strumpets,) retained a Reſolution, (ſo ſoon as I had brake and violated their Sting and Engine) to take Pen in hand, and charactarize the Qualities of ſuch deceitful and inflaming Angels or Devils, as <hi>Plato</hi> ſaith, for ſo he termeth all ſuch Women, who imitate and tread the ſteps of <hi>Semiramis</hi> of <hi>Babylon,</hi> that both and after her husbands death, ſhe waxed ſo unſatiable in carnal luſt, that two men at one time could not ſatisfie her deſire; and ſo by her unſatiableneſs, at length all <hi>Perſia</hi> grew full of Whores. But before I proceed further, give me leave to whi<g ref="char:EOLhyphen"/>ſpher one word in your ear, <hi>viz.</hi> Whatever you think privatly, I wiſh you to conceal it with ſilence, left in ſtarting up to find fault, you prove your ſelves guilty of theſe mon<g ref="char:EOLhyphen"/>ſtrous accuſations, which are here following againſt ſuch laſcivious <hi>Theodora</hi>'s; and thoſe which ſpurn, if they feel themſelves touched, prove themſelves ſtark fools, in be<g ref="char:EOLhyphen"/>wraying their galled backs to the world; for we intend not to reflect on any, but ſuch as when they hear it, will go about to reprove it: And as I intend not to ſpeak much of thoſe that are good, ſo ſhall I ſpeak too little of thoſe that are naught; but yet I will not altogether condemn the bad, (unleſs they be perfect <hi>Jezabels</hi>) deſiring ra<g ref="char:EOLhyphen"/>ther to better the one, by paralleling the other: for there is no woman ſo good, but may amend, knowing that the cleereſt River that is hath ſome dirt in the bottome; and as Gold is not all of one Picture, no more are women all of one diſpoſition: But if this ſawce prove too ſharp for ſome, and the flowers too ſtrong for others, I deſire you with patience to hear the rest; for indeed the best is behind: And far more rarer things, (than either <hi>Iceland</hi> Dogs, or <hi>Venice</hi> Glaſſes) you may expect from him, who aſ<g ref="char:EOLhyphen"/>ſures himſelf</p>
+            <closer>
+               <signed>Yours in the way of Honeſty, G. Thorowgood.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168398:3"/>
+            <head>Pray be not angry: <hi>Or,</hi> The Womens new <hi>Law.</hi>
+            </head>
+            <p>THE Philoſophers which lived in the old time, their Opini<g ref="char:EOLhyphen"/>ons were ſo hard of Marriage, that they never delighted therein: for one of them being asked, why he married not? he anſwered it was too ſoon: And afterwards when he was old, being asked the ſame queſtion, he then replyed, It was too late. And as another well ſaid, Many are the troubles which come galloping at the heels of a woman, which many young men before hand do not think of. The world is not all made of Oate<g ref="char:EOLhyphen"/>meal; nor all is not Gold that gliſters; nor a ſmiling countenance is no cer<g ref="char:EOLhyphen"/>tain teſtimonial of a merry heart; nor the way to Heaven is not ſtrewed with Ruſhes; no more is the Cradle of eaſe in a womans lap. For know; it is an old ſaying, That he which hath a fair wife, and a white horſe, ſhall never be without troubles: for commonly a woman that hath a fair face, is ever matched with a cruel heart, and their modeſt countenance with mercileſs minds: ſhe can both ſmooth and ſooth, and is ſo cunning in the art of flattery, as if ſhe had been bound Prentice twice ſeven years to the Trade: They have <hi>Syrens</hi> tongue to allure thee, and <hi>Circes</hi> cunning to inchant thee: They bear two tongues in one mouth like <hi>Judas,</hi> and two hearts in one breaſt like <hi>Magus;</hi> the one full of ſmiles; the other, full of frowns: they can with the <hi>Satyr,</hi> out of one mouth, blow hot and cold. And what of all this? truly nothing, but to tell thee, That an unconſtant and unchaſt woman is better loſt than found, better forſaken, then taken; but a conſtant, chaſt, and vertuous woman, doth far excel the moſt pureſt and refineſt gold.</p>
+            <p>A lewd and froward woman is compared to a <hi>Pumice</hi>-ſtone; for which way way ſoever you turn it, it is full of holes: Even ſo is ſuch a ones heart, for if
+<pb facs="tcp:168398:3"/> ſhe retains love at one hole, ſhe excludeth it at another. O they have delicate tongues, which will raviſh and tickle the ears of giddy-headed young men; ſo fooliſh, that they think themſelves happy, if they can but kiſs the Dazie where<g ref="char:EOLhyphen"/>on their Love did tread: who if the frown, then he deſcends preſently into hell; but if ſhe ſmile, then he is carryed with Wings up into heaven. Is there not an old ſaying, <hi>That when a Dog wags his tayl, he loves his Maſter?</hi> So many think, that if a woman ſmile on them, ſhe is preſently over head and ears in love: one muſt wear her Glove, another her Garter, another her colours of delight, and another ſhall ſpend and live on the ſpoyl which the getteth from all the reſt: Know therefore, <hi>If thou wilt give thy body to the Chyrurgeon, and thy ſoul to the De<g ref="char:EOLhyphen"/>vil, ſuch</hi> Syrens <hi>are for thy dyet.</hi>
+            </p>
+            <p>It is ſtrange to ſee the mad feats of ſuch Girls; they will now be merry, then again ſad; now laugh, then weep; now ſick, then preſently whole: all things which like not them, are naught; and if it be never ſo bad, if it like them, it is excellent. O it is death for women to be denied the thing which they demand, and yet they will deſpiſe things given unasked! When a woman wanteth any thing, ſhe will flatter and ſpeak fair; not much unlike the flattering Butcher, who gently claweth the Ox, when he intendeth to knock him on the head. Nay more, they are called Night-Crows, for that commonly in their Chamber they will make requeſt for ſuch toys, as cometh in their heads in the day. Women know their time to work their craft; for in the night they will work a man like Wax, and draw him like as the Adamant doth the Iron: and having once brought him to the bent of her Bow, then ſhe makes requeſt for a Gown of the new faſhion ſtuff, for a Petticoat of the fineſt Stammel, or for a Hat of the neweſt faſhion: and will never be quiet, if her mind be ſet upon a thing, till ſhe have it. So that if her husband put her off with delays, then her fore-head will butt full of frowns, as if ſhe threatned to make Clubs Trump, and he (poor ſoul) ne<g ref="char:EOLhyphen"/>ver a black Card in's hand: For with her cruel tongue ſhe will ring him ſuch a peal, that one would think the Devil were come from hell, calling of him Rogue, Raſcal, Wittal, Sot, &amp;c. ſaying, ſhe could live without ſuch a faggot-fac'd hornifi'd Coxcomb, as he, with a wannion to him.</p>
+            <p>Sure I am, men may live without women, but women cannot live without men: For <hi>Venus,</hi> whoſe beauty was excellent fair, yet when ſhe needed a mans help, ſhe took <hi>Vulcan,</hi> a club-footed Smith. And therefore if a woman face gli<g ref="char:EOLhyphen"/>ſter, and her geſture pierce the Marble Wall; or if her Tongue be ſo ſmooth as Oyl, and ſo ſoft as ſilk, and her words ſo ſweet as honey; or if ſhe were a very Ape, for wit, or a baggage of Gold for wealth; or if her perſonage have ſtoln away all that Nature can afford, and ſhe be deckt up in gorgeous apparel, then a thouſand to one but ſhe will love to walk where ſhe may get acquaintance, and acquaintance bringeth familiarity, and familiarity ſetteth all follies a<g ref="char:EOLhyphen"/>broach; and twenty to one, that if a woman love gadding, but that ſhe will pawn her honeſty to pleaſe her fantaſie.</p>
+            <p>Alas, alas! Man muſt be at all the coſt, and yet live by the loſs; a man muſt take all the pains, and women ſpend all the gains; a man muſt watch and till, and look what he getteth in ſeven years, a Wanton Gill will ſpread it abroad with a fork in one year, and yet little enough to ſerve her turn, but a great deal too little to get her good will.</p>
+            <pb facs="tcp:168398:4"/>
+            <p>What ſhall I ſay more, but as they were by God created, and by Nature for<g ref="char:EOLhyphen"/>med, and therefore by policy and wiſdome to be avoided; for good things abu<g ref="char:EOLhyphen"/>ſed, are to be refuſed, or elſe for a moneths pleaſure, ſhe may hap to make thee go ſtark naked: ſhe will give the roſt-meat, but ſhe will beat thee with the ſpit: If thou haſt Crowns in thy purſe, ſhe will be thy hearts gold, untill ſhe leave not a whit of white money: they are like Summer-birds, for they will abide no ſtorm, but flock about thee in the pride of thy glory, and fly from thee in the ſtorms of affliction; for they aym more at thy wealth then at thy perſon, and eſteem more thy money, then vertuous qualities.</p>
+            <p>In a word, they eſteem of a man without money, as a horſe doth of a fair ſtable without meat.</p>
+            <p>Theſe things being wiſely conſidered, who would ſubmit unto their alluring Angles, and bow at their becks? and who would impoveriſh himſelf, to enrich ſuch Harlots, to make them ſwim in their ſilks, and make Gill a Gentlewoman, inſomuch that ſhe careth not a peny for the fineſt, nor a fig for the proudeſt: ſhe is as good as the beſt, although ſhe have hardly as much honeſty as will ſerve her own turn, ſuffering every mans fingers as deep in the diſh, as thine are in the platter, and every man to angle where thou caſteſt thy <hi>hook,</hi> holding up to all that come, not much <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>like a Barbers Chair, that ſo ſoon as one Knave is out, another is in, a common <hi>hackney</hi> for every one that will ride, a boat for eve<g ref="char:EOLhyphen"/>ry one to row in.</p>
+            <p>Now if thy wealth do begin to fail, then ſhe biddeth thee farewel, and gives thee the <hi>adieu</hi> in the Devils name: not much unlike the Knaviſh Porters in <hi>Briſtow,</hi> who will cry
+<q>A new Maſter, a new; and hang up the Old.</q>
+            </p>
+            <p>To ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thee ſtrongeſt therefore, to ſtrive againſt theſe Serpents, it is the Law and Precept of ſundry modeſt women, to all men whatſoever, To beware of ſix <hi>ki<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds</hi> of women, and to take heed that they match not themſelves to any one of them; that is to ſay, If a woman be never ſo comely, beautiful of body, ſober of countenance, ſober of countenance, eloquence in ſpeech, and adorned with vertue, yet they have one ill quality or other, which overthroweth all the reſt.</p>
+            <p>Beware alſo how thou matcheſt unto a <hi>Jezabel</hi> widow, for ſhe will be the cauſe of a thouſand woes: if rich, then ſhe will govern: if poor, then thou art plagued both with beggery and bondage: If thou ſhew thy ſelf ſparing, ſhe will ſay, thou ſhalt not pinch her of that which is her own; and if thou do any thing contrary to her mind, ſhe will ſay, her other husband was more kind: If thou chance to dine from home, ſhe will bid thee go ſup with thy harlots a<g ref="char:EOLhyphen"/>broad: If thou go abroad, and ſpend any thing before thou comeſt home, ſhe will ſay, <hi>A begger I found thee, and a begger thou meaneſt to leave me.</hi> If thou ſtay
+<pb facs="tcp:168398:4"/> always at home, ſhe will ſay, <hi>Thou art happy thou haſt gotten a wife that is able to maintain thee idle.</hi> If thou carve her the beſt morſel on the Table, though ſhe take it, yet ſhe will take it ſcornfully, and ſay, <hi>She once had a husband that would let her cut where ſhe liked her ſelf.</hi> And if thou come in well diſpoſed, thinking to be merry, and intreating her with fair words, ſhe will call thee diſſembling hypocrite, ſaying, <hi>Thou ſpeakeſt me fair with thy tongue, but thy heart is on thy Mini<g ref="char:EOLhyphen"/>ons abroad.</hi> Beſides this, ſhe will not truſt thee with a handſome Maid in thy houſe, but muſt have a brended ſlut, like a Hell-hag, with a pair of paps like a pair of dung-pots; ſo that if upon juſt occaſion thou throweſt the platters at thy Maids head, ſeeing thy meat brought in by ſuch a ſlut, and ſo ſluttiſhly dreſt, then will thy Widow take pepper in the noſe, and ſtamp, and ſtare, and look ſo ſowr, as if ſhe had come but even then from eating of Crabs, ſaying, <hi>If thou hadſt not married with me, thou wouldeſt have been glad of the worſt morſell that is here, thou Cornuted Beaſt thou.</hi>
+            </p>
+            <p>Loe here's a life, but it is as weariſome as Hell; for if they kiſs in the mor<g ref="char:EOLhyphen"/>ning, being friends, yet ere Noon are ready to throw the houſe out at window. A ſad life, and a mad life! For note, that one having married with a Widow, being one day at a Sermon, heard the Preacher ſay, <hi>Whoſoever will be ſaved, let him take up his Croſs and follow me.</hi> This mad fellow after Sermon was ended; took his wife upon his <hi>back,</hi> and came to the Miniſter, ſaying, <hi>Here is my Croſs, I am ready to follow thee whither thou wilt.</hi>
+            </p>
+            <p>Another merry companion having married with a Widow, and carryed her over Sea into <hi>France,</hi> there ſuddenly aroſe a great ſtorm, inſomuch that they were all in danger of drowning; the Maſter of the ſhip called unto the Mari<g ref="char:EOLhyphen"/>ners, and bad them take and throw over-board all the heavieſt goods in the ſhips: This married man hearing him ſay ſo, he took his Widow, and threw her over: and being asked the reaſon why he did ſo, he ſaid, <hi>That he neverfelt any thing in all his life that was ſo heavy to him as ſhe had been.</hi>
+            </p>
+            <p>Another having marryed with a widow, and within a while after they were married, ſhe went out into the garden, and there finding her husbands ſhirt hang cloſe on the edge by her Maids <hi>ſmock,</hi> ſhe went preſently and hanged her ſelf, upon a jealous conceit that ſhe took: and a merry fellow asking the cauſe why ſhe hanged her ſelf, and being told that it was for jealouſie, <hi>I would,</hi> ſaid he, <hi>that all Trees did bear ſuch fruit.</hi>
+            </p>
+            <p>In a word, there is no woman but either ſhe hath a long tongue, or a longing tooth, <hi>and they are two ill Neighbours, if they dwell together;</hi> for the one will ligh<g ref="char:EOLhyphen"/>ten the purſe, if it be ſtill pleaſed, and the other will waken thee from thy <hi>ſleep,</hi> if it be not charmed.</p>
+            <p>It is ſtrange of what kind of mettal a womans tongue is made, that neither correction can chaſten, nor fair means quiet? For there is a kind of venome in it, that neither by fair means nor ſoul they are to be ruled. All Beaſt by men are made tame, but a womans tongue will never be tame: it is but a ſmal thing and ſeldome ſeen, but is often heard, to the terrour and confuſion of many a man.</p>
+            <pb facs="tcp:168398:5"/>
+            <p>Some with ſweet words undermine their husband, as <hi>Dalilah</hi> did <hi>Sampſon,</hi> and ſome with chiding and brawling are made weary of the world, as <hi>Socrates</hi> and others. <hi>Socrates</hi> when his wife did chide and brawl, would go out of the houſe till all were quiet again: but becauſe he would not ſcould with her again, it grieved her the more; for on a time ſhe watched his going out, and threw a Chamber-pot out of a window on his head, <hi>Ha, ha,</hi> quoth he, <hi>I thought after all this thunder there would come rain.</hi>
+            </p>
+            <p>Therefore as a ſharp Bit curbs a froward Horſe, even ſo a curſt woman muſt be roughly uſed; but if women could hold their tongues, three to one but men would hold their hands. As the beſt metled blades are mixt with Iron, even ſo the beſt woman that is, is not free from faults; the goodlieſt Gardens are not free from Weeds, no more is the beſt nor faireſt woman from ill deeds.</p>
+            <p>For who was adorned with more beauty then fair <hi>Veniſe</hi> in <hi>Cyprus,</hi> and <hi>Rodepe</hi> in <hi>Aegypt?</hi> yet both notorious Strumpets.</p>
+            <p>It is ſaid, that the gods themſelves did change their ſhapes, for the love of ſuch women they luſted after: <hi>Jupiter</hi> transformed himſelf into a Bull, <hi>Neptune</hi> into a Horſe, and <hi>Mercury</hi> into a Goat. Nay, <hi>Sampſon</hi> and <hi>Hercules,</hi> for all their great ſtrength and conqueſt of Gyants and Monſters, yet the one yielded his Club at <hi>Delanira's</hi> foot, and the other revealed his ſtrength to <hi>Dalilah,</hi> and paid his life for his folly. Was not wiſe <hi>Solomon,</hi> and holy <hi>David</hi> overcome by the ſweet enticements of women? And the great Captain <hi>Holofernes,</hi> whoſe ſight made many thouſands to quake, yet he loſt his life, and was ſlain by a woman. Wherefore, to avoid the ſight many times is the beſt Razor to cut off the occa<g ref="char:EOLhyphen"/>ſion of the evil which cometh by women; for had not <hi>Holofernes</hi> ſeen the beau<g ref="char:EOLhyphen"/>ty of <hi>Judeth,</hi> and marked the fineneſs of her foot, he had not loſt his head by her. If <hi>Herod</hi> had not ſeen <hi>Herodias</hi> daughter dance, he had not ſo raſhly granted her St. <hi>John Baptiſts</hi> head. Had not <hi>Eve</hi> ſeen the Apple, and ſo was tempted with the beauty of the Serpent, who (as School-men write) ſhewed himſelf like a fair young-man; but had not ſhe ſeen it, I ſay ſhe had not eaten thereof, to her own grief, and many more.</p>
+            <p>So that conſequently, he that lays his Net to catch a fair Woman, he may chance to fall into the ſprindge which was laid for a Woodcock: therefore I do admoniſh young men, and adviſe old men; and I counſail ſimple men, and I warn all men, that they flye a wicked woman, as from the peſtilence, or elſe ſhe will make thee fly in the end.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
